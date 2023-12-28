@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a83845216c0b4d84e9c5aae90456d58b, type: 3}
+  m_Name: PlantInfo
+  m_EditorClassIdentifier: 
+  plantInfoList:
+  - plantId: 0
+    plantName: "\u8C4C\u8C46\u5C04\u624B"
+    description: "\u53D1\u5C04\u8C4C\u8C46"
+    cardPrefab: {fileID: 6710997940415669291, guid: 6c610782092117042bfed62fdd02e6ae, type: 3}
+  - plantId: 1
+    plantName: "\u5411\u65E5\u8475"
+    description: "\u5411\u65E5\u8475\u53EF\u4EE5\u751F\u4EA7\u9633\u5149"
+    cardPrefab: {fileID: 337138140455537107, guid: 654f5d61445295948a6bd53b6aed1494, type: 3}
+  - plantId: 2
+    plantName: "\u575A\u679C"
+    description: "\u575A\u679C\u53EF\u4EE5\u62B5\u5FA1\u50F5\u5C38\u4E00\u6BB5\u65F6\u95F4"
+    cardPrefab: {fileID: 8983397581150105400, guid: 583ed5812d291024fba8e0134baedb02, type: 3}
+  - plantId: 3
+    plantName: "\u706B\u70AC\u6811\u6869"
+    description: "\u706B\u70AC\u6811\u6869\u53EF\u4EE5\u70B9\u71C3\u8C4C\u8C46"
+    cardPrefab: {fileID: 981910074881659035, guid: 396a3910bda81aa4d8dba87479130942, type: 3}
+  - plantId: 4
+    plantName: "\u502D\u74DC"
+    description: "\u5750\u6B7B\u50F5\u5C38"
+    cardPrefab: {fileID: 2781490063350376617, guid: 1ee74901ea4aac54aa6fe5adfbcba28e, type: 3}
+  - plantId: 5
+    plantName: "\u80C6\u5C0F\u83C7"
+    description: "\u5BB3\u6015"
+    cardPrefab: {fileID: 1198304758916121643, guid: ec23411980032484ab9ae15d9922d99a, type: 3}
+  - plantId: 6
+    plantName: "\u94C1\u9539"
+    description: "\u65E0\u654C\u597D\u5427\uFF0Czombie\u90FD\u662F\u6742\u9C7C"
+    cardPrefab: {fileID: 5484232961910137514, guid: f52b0b156db030647a42b181a5b69bbb, type: 3}
+  - plantId: 7
+    plantName: "\u673A\u67AA\u8C4C\u8C46"
+    description: biubiubiu
+    cardPrefab: {fileID: 7503849786258286099, guid: 5550d788a6496fa44a506e1c20699294, type: 3}

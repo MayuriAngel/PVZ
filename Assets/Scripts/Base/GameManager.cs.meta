@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b0ccf9e676439744d9370aded4deabe0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bornParent: {instanceID: 0}
+  - levelData: {fileID: 11400000, guid: 8b3511a4319baf74c9e9e4302b5a237d, type: 2}
+  - levelInfo: {fileID: 11400000, guid: 7128493c2a3bbdd4389f96efb43c7833, type: 2}
+  - plantInfo: {fileID: 11400000, guid: db62ab2db2c887e44b50198e5a6292e3, type: 2}
+  - All: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

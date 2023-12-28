@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Land
+  - Plant
+  - Zombie
+  - Bullet
+  - MoGuBullet
+  - Canzi
+  - FxTemporaire
+  - EnemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 845812921
+    locked: 0
+  - name: Plant
+    uniqueID: 292435919
+    locked: 0
+  - name: Zombie
+    uniqueID: 4168167587
+    locked: 0
+  - name: Squash
+    uniqueID: 3595424397
+    locked: 0
+  - name: Bullet
+    uniqueID: 4221572325
+    locked: 0
+  - name: Sun
+    uniqueID: 1682160159
+    locked: 0
+  - name: UI
+    uniqueID: 3792187747
+    locked: 0
